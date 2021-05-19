@@ -1,0 +1,5 @@
+{
+ "name": "Windows XP Simulator",
+ "main": "project.html",
+ "icons": { "16": "icon.png"}
+}
